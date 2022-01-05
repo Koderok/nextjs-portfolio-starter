@@ -8,7 +8,7 @@ This portfolio is built with **Next.js** and a library called [Nextra](https://n
 - Easily categorize posts with tags
 - Fast, optimized web font loading
 
-## Configuration
+## Configuration 
  
 1. Update your name in `theme.config.js` or change the footer.
 1. Update your name and site URL for the RSS feed in `scripts/gen-rss.js`.
